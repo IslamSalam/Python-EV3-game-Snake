@@ -1,0 +1,16 @@
+// Place your settings in this file to overwrite default and user settings.
+{
+	"files.eol": "\n",
+	"debug.openDebug": "neverOpen",
+	"python.linting.enabled": false,
+	"python.languageServer": "None",
+	"python.testing.unittestArgs": [
+		"-v",
+		"-s",
+		".",
+		"-p",
+		"*test.py"
+	],
+	"python.testing.pytestEnabled": false,
+	"python.testing.unittestEnabled": true
+}
